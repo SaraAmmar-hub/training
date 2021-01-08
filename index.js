@@ -26,6 +26,5 @@ fetch('https://restcountries.eu/rest/v2/all')
         x.innerHTML=appearence 
 
         document.getElementById('sara').appendChild(x);
-          
       }
   }) 
